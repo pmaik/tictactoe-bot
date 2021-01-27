@@ -6,7 +6,7 @@
  * Using the Minimax Algorithm along with alpha-beta pruning to increase efficiency.
  Numpad is used to select the desired block which are numbered from 1 to 9 and in same relative order as on the numpad.
  
- ![NumPad]()
+ ![NumPad](https://github.com/pmaik/tictactoe-bot/blob/master/Numpad.jpg)
  
  ## Naive Implementation has the following rules:
   1. First, see if there’s a move the computer can make that will win the game. If there is, take that move. Otherwise, go to step 2.
